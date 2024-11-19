@@ -1,3 +1,12 @@
+@media (max-width: 768px) {
+    body {
+        padding: 10px; /* Adjust to fit the screen */
+    }
+    .container {
+        width: 100%; /* Ensure it scales to the full width */
+    }
+}
+
 body {
     margin: 0;
     padding: 0;
